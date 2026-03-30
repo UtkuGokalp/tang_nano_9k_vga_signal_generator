@@ -5,3 +5,10 @@ This is a project for generating a VGA signal (static image) with a resolution o
  - Generated Image: 8 colored bars (in order: black, red, green, yellow, blue, magenta, cyan, white)
  - Current Draw: 35 mA
  - Voltage: 5V
+
+# Photos
+Circuit and the image on a monitor
+![](demo.jpg)
+
+Display information from the monitor
+![](resolution.jpg)

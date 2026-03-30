@@ -20,7 +20,7 @@ Display information from the monitor
 # Using
  1. Clone the repository:
     ```
-    git clone https://github.com/UtkuGokalp/fpga_vga_signal_generator.git
+    git clone https://github.com/UtkuGokalp/tang_nano_9k_vga_signal_generator.git
     ```
  2. Open the project in Gowin IDE:
     ```

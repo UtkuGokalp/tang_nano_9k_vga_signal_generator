@@ -16,3 +16,15 @@ Display information from the monitor
 
 # Schematic
 [View schematic](schematic.pdf)
+
+# Using
+ 1. Clone the repository:
+    ```
+    git clone https://github.com/UtkuGokalp/fpga_vga_signal_generator.git
+    ```
+ 2. Open the project in Gowin IDE:
+    ```
+    File -> Open -> Navigate to project directory -> vga_signal_generator.gprj
+    ```
+ 3. Synthesize, Place & Route, Upload using default settings
+    

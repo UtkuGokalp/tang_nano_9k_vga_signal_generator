@@ -12,3 +12,6 @@ Circuit and the image on a monitor
 
 Display information from the monitor
 ![](resolution.jpg)
+
+# Schematic
+[View schematic](schematic.pdf)

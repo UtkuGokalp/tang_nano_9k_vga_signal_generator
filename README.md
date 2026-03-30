@@ -1,2 +1,7 @@
-# fpga_vga_signal_generator
-Generates a VGA signal (static image) with 800x600 resolution at 60 Hz. Uses Tang Nano 9K FPGA from GOWIN Semiconductors.
+# VGA Signal Generator (Tang Nano 9K)
+This is a project for generating a VGA signal (static image) with a resolution of 800x600 @ 60 Hz. The FPGA used is Tang Nano 9K from GOWIN Semiconductors.
+
+ - Resolution: 800x600@60 Hz
+ - Generated Image: 8 colored bars (in order: black, red, green, yellow, blue, magenta, cyan, white)
+ - Current Draw: 35 mA
+ - Voltage: 5V
